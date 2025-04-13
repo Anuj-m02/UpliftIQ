@@ -101,6 +101,12 @@ Where the first 12 values are feature metrics (f0-f11) and the last two are bina
   }
 }
 ```
+![Screenshot 2025-04-13 192035](https://github.com/user-attachments/assets/8c4923e5-bfe5-42b8-9010-2f7381da89ce)
+![Screenshot 2025-04-13 192044](https://github.com/user-attachments/assets/812939bc-456f-4bf1-974c-009065cfd4e1)
+![Screenshot 2025-04-13 192053](https://github.com/user-attachments/assets/ea8057dd-a7be-4769-8862-a21e7855b4c8)
+![Screenshot 2025-04-13 192059](https://github.com/user-attachments/assets/346bdf74-33aa-4bb4-80e7-bd6788d679b8)
+
+
 
 ### `/health` (GET)
 
@@ -127,3 +133,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
