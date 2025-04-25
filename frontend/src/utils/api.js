@@ -62,24 +62,3 @@ export const getPrediction = async (features) => {
     }
   }
 };
-
-// Mock version for testing without backend
-export const getMockPrediction = () => ({
-  prediction: 0.82,
-  feature_contributions: {
-    feature1: 0.1,
-    feature2: -0.03,
-    feature3: 0.25,
-    feature4: -0.05,
-    feature5: 0.08,
-    feature6: 0.12,
-    feature7: -0.02,
-    feature8: 0.07,
-    feature9: -0.01,
-    feature10: 0.05,
-    feature11: 0.04,
-    feature12: 0.03,
-    feature13: 0.02,
-    feature14: 0.01,
-  },
-});
