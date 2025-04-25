@@ -127,7 +127,7 @@ const FeatureImpactChart = ({ featureContributions }) => {
         callbacks: {
           label: function (context) {
             const value = context.raw;
-            return `Contribution: ${(value * 100).toFixed(2)}%`;
+            return `Contribution: ${(value*100).toFixed(2)}%`;
           },
         },
         titleFont: {
