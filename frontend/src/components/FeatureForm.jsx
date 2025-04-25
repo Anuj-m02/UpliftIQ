@@ -132,7 +132,7 @@ const FeatureForm = ({ onSubmit, onChange }) => {
                   name={feature}
                   value={formData[feature]}
                   onChange={handleChange}
-                  step="0.01"
+                  step="1"
                   className="input-field"
                 />
               )}
